@@ -18,7 +18,7 @@ redirect_from:
 ## Education
 
 * Ph.D in Computer Science, [Technische Universität Berlin](https://www.tu-berlin.de/), 2023.
-* Research Intern at [National University of Singapore (NUS)(https://nus.edu.sg/)], Jan 2018 - Jun 2018.
+* Research Intern at [National University of Singapore (NUS)](https://nus.edu.sg/), Jan 2018 - Jun 2018.
 * M.S. in Computer Science, [International Institute of Information Technology Hyderabad (IIIT-H)](https://www.iiit.ac.in/), 2019
 
 
