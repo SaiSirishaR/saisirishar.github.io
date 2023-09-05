@@ -18,45 +18,39 @@ redirect_from:
 ## Education
 
 * Ph.D in Computer Science, [Technische Universität Berlin](https://www.tu-berlin.de/), 2023.
-* Research Intern at [National University of Singapore (NUS)](https://nus.edu.sg/), Jan 2018 - Jun 2018.
 * M.S. in Computer Science, [International Institute of Information Technology Hyderabad (IIIT-H)](https://www.iiit.ac.in/), 2019
 
 
 
 ## Work Experience
 
-* December 2019 - NOW: Research Assistant
-  * German Research Center for Artificial Intelligence [DFKI](https://www.dfki.de/web/)
-  * Speech and Language Technology [(SLT)](https://www.dfki.de/web/forschung/forschungsbereiche/speech-and-language-technology/) group
-  * Duties included: Senoir machine learning and NLP researcher
-  * Supervisor: Professor [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/)
+* January 2018 - June 2018: Research Intern
+  * Electrical and Computer Engineering Department at [National University of Singapore (NUS)](https://nus.edu.sg/).
+  * Duties included: Speech researcher responsible for building a framework for Cross-lingual Voice Conversion.
+  * Supervisor: [Haizhou Li](https://cde.nus.edu.sg/ece/haizhou-li/)
   
- * March 2019 - November 2019: Research Assistant
-  * [Quality and Usability Lab](https://www.qu.tu-berlin.de/menue/qu/parameter/en/)
-  * Duties included: member of NLP group, senoir researcher
-  * Supervisor: Professor [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/)
+ * May 2015 - July 2015: Research Assistant
+  * [International Institute of Information Technology Hyderabad (IIIT-H)](https://www.iiit.ac.in/)
+  * Speech Processing Laboratory in [Language Technologies Research Center (LTRC)](https://ltrc.iiit.ac.in/)
+  * Duties included: Development of an Android app for speech-based activation and control of mobile devices.
+  * Supervisor: Suryakanth V Gangashetty
 
 
-* April 2014 - February 2019: Research Assistant
-  * [Research Institute for Information and Communication Technology](http://www.ictrc.ac.ir/EN/Home)
-  * Duties included: member of NLP group, technical manager
-  
-* Summer 2010: Internship
-  * Tehran University of Art
-  * Duties included: Network technical support
-
-
-## Skills
+## Technical Skills
 
 * Programming
-  * Python
-  * Java
-* Natural Language Processing
-  * Spacy
-  * NLTK
+  * Python (numpy, Pandas, Scipy)
+    
 * Machine Learning
   * Pytorch
   * scikit-learn
+ 
+## Languages known
+
+* English: Fluent
+* Deutsch: A2
+* Telugu: Mother Tongue
+* Hindi: Fluent
 
 
 ## Publications
@@ -82,6 +76,4 @@ redirect_from:
     {% endif %}
   {% endfor %}</ul>
   
-[//]: # Service and leadership
-[//]: # ======
-[//]: # * Currently signed in to 43 different slack teams
+
