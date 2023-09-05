@@ -21,3 +21,5 @@ News
 ======
 - **[July 2023]** Paper titled **Investigating disentanglement of speaker identity and characteristics through
 user experience** has been accepted at the [ITG Conference on Speech Communication 2023](https://www.iks.rwth-aachen.de/institut/veranstaltungen/itg-conference-on-speech-communication-2023/).
+
+- **[March 2023]** I have successfully defended my Ph.D. thesis. The thesis can be found [here](https://depositonce.tu-berlin.de/items/2c087d55-f28f-4f8b-a6ac-eb89032aaedf).
