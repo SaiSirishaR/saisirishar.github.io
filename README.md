@@ -1,5 +1,3 @@
-# saisirishar.github.io
-
 ## Senior Researcher (Post-Doc) at Technische Universität Berlin
 
 ## Education
