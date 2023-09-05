@@ -26,7 +26,7 @@ redirect_from:
 
 * January 2018 - June 2018: Research Intern
   * Electrical and Computer Engineering Department at [National University of Singapore (NUS)](https://nus.edu.sg/).
-  * Duties included: Speech researcher responsible for building a framework for Cross-lingual Voice Conversion.
+  * Duties included: Speech researcher; responsible for building a framework for Cross-lingual Voice Conversion.
   * Supervisor: [Haizhou Li](https://cde.nus.edu.sg/ece/haizhou-li/)
   
  * May 2015 - July 2015: Research Assistant
