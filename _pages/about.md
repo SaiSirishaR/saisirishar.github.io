@@ -32,3 +32,4 @@ user experience** has been accepted at the [ITG Conference on Speech Communicati
 
 <button name="button" onclick="http://www.google.com">Click me</button>
 
+<button onclick="window.location.href='https://bing.com';">Click</button>
