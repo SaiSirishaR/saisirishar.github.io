@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-- Research Scientist at German Research Center for Artificial Intelligence [(DFKI)](https://www.dfki.de/web/), Speech and Language Technology [(SLT)](https://www.dfki.de/web/forschung/forschungsbereiche/speech-and-language-technology/) group
-- Ph.D. candidate in Computer Science at [Technische Universität Berlin](https://www.tu-berlin.de/), Department of [Electrical Engineering and Computer Science](https://www.eecs.tu-berlin.de/menue/fakultaet_iv/parameter/en)
-- Advised by Prof. [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/), [Quality and Usability lab](https://www.qu.tu-berlin.de/menue/qu/parameter/en/)
+
+I am a Senior Research Scientist (Post-doc) in Speech Technology and Human-Computer Interaction (HCI) at Quality and Usability Lab, [Technische Universität Berlin](https://www.tu-berlin.de/) (TUB). I have recently received my Ph.D. from TUB under the Supervision of Prof. [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/) from the Department of [Electrical Engineering and Computer Science](https://www.eecs.tu-berlin.de/menue/fakultaet_iv/parameter/en). During my Ph.D., I have focused on integrating social speaker characteristics such as warmth and competence into artificial speech generation mechanisms. I have a great interest in system building from scratch. As a part of my Ph.D. project, I have worked on speech data collection, interpretation of speech perceptions by humans in HCI, the relationship between acoustic correlates and speech perceptions, and manipulation of acoustic correlates for positive perceptions of artificially generated speech in HCI. Prior to this, I graduated with my master's from the International Institute of Information Technology, Hyderabad (IIIT-H). My Master's was mainly focused on developing approaches for Cross-lingual Voice Conversion to enable human-like code-switched speech generation.
 
 
-Research Interest: Natural Language Processing, Information Retrieval <br/>
-Currently, I am working on NLP applications in automated fact-checking.  <br/>
-I received my Bachelor’s Degree in [Shahrood University of Technology](http://shahroodut.ac.ir/en/). Also, I received my Master in Information Technology engineering from [Amirkabir University of Technology](http://aut.ac.ir/aut/).<br/> 
+Research Interests: Speech Technology, Human-Computer Interaction, Machine Learning, Natural Language Processing. <br/>
+ 
  
 
 
