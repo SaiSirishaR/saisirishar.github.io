@@ -30,10 +30,10 @@ redirect_from:
   * Supervisor: [Haizhou Li](https://cde.nus.edu.sg/ece/haizhou-li/)
   
  * May 2015 - July 2015: Research Assistant
-  * [International Institute of Information Technology Hyderabad (IIIT-H)](https://www.iiit.ac.in/)
-  * Speech Processing Laboratory in [Language Technologies Research Center (LTRC)](https://ltrc.iiit.ac.in/)
-  * Duties included: Development of an Android app for speech-based activation and control of mobile devices.
-  * Supervisor: Suryakanth V Gangashetty
+   * [International Institute of Information Technology Hyderabad (IIIT-H)](https://www.iiit.ac.in/)
+   * Speech Processing Laboratory in [Language Technologies Research Center (LTRC)](https://ltrc.iiit.ac.in/)
+   * Duties included: Development of an Android app for speech-based activation and control of mobile devices.
+   * Supervisor: Suryakanth V Gangashetty
 
 
 ## Technical Skills
