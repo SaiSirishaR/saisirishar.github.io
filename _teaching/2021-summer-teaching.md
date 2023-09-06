@@ -1,17 +1,14 @@
 ---
-title: "Seminar in Natural Language Processing"
+title: "Usability Engineering"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-summer-teaching
 venue: "Technische Universität Berlin"
-date: 2021-04-01
 location: "Berlin, Germany"
 ---
 
 
 
-### Summer 2021
+### Spring 2020, 2021
 
-The seminar is presented in the Summer semester of 2021 and covers different NLP topics; from text classification of information extraction and machine translation.
-
-The basic topics were taught by the tutors and then each topic was presented by groups of two students. 
+This course consists of Exercises where the students are supposed to work on research projects in groups. The exercise enables the students to procure practical knowledge of designing and conducting surveys for resarch.
