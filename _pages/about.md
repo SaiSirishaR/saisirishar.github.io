@@ -26,9 +26,9 @@ user experience** has been accepted at the [ITG Conference on Speech Communicati
 
 - **[March 2023]** I have successfully defended my Ph.D. thesis! <button onclick="window.location.href='https://depositonce.tu-berlin.de/items/2c087d55-f28f-4f8b-a6ac-eb89032aaedf';">Thesis.pdf</button>
 
-- **[June 2019]** Student Volunteer at [IEEE International Conference on Acoustics, Speech, and Signal Processing](https://www.2019.ieeeicassp.org/2019.ieeeicassp.org/index.html).
+- **[June 2019]** Student Volunteer at [IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2019](https://www.2019.ieeeicassp.org/2019.ieeeicassp.org/index.html).
 
 
-- **[April 2019]** Received Microsoft Travel Grant to attend and present the paper titled **An Approach to Cross-Lingual Voice Conversion** submitted to  [International Joint Conference on Neural Networks 2019](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=78918&copyownerid=105620).
+- **[April 2019]** Received Microsoft Travel Grant to attend and present the paper titled **An Approach to Cross-Lingual Voice Conversion** submitted to  [International Joint Conference on Neural Networks (IJCNN) 2019](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=78918&copyownerid=105620).
 
 - **[April 2019]** I have successfully defended my Master's thesis! <button onclick="window.location.href='https://web2py.iiit.ac.in/research_centres/publications/view_publication/mastersthesis/690';">Thesis.pdf</button>
