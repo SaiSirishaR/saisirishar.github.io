@@ -25,3 +25,5 @@ user experience** has been accepted at the [ITG Conference on Speech Communicati
 - **[July 2023]** Reviewer for a manuscript titled **Comparing alignment toward American, British, and Indian English text-to-speech (TTS) voices: Influence of social attitudes and talker guise** submitted to the Journal the [Frontiers in Computer Science, section Human-Media Interaction](https://www.frontiersin.org/articles/10.3389/fcomp.2023.1204211/full?&utm_source=Email_to_rerev_&utm_medium=Email&utm_content=T1_11.5e5_reviewer&utm_campaign=Email_publication&journalName=Frontiers_in_Computer_Science&id=1204211).
 
 - **[March 2023]** I have successfully defended my Ph.D. thesis! <button onclick="window.location.href='https://depositonce.tu-berlin.de/items/2c087d55-f28f-4f8b-a6ac-eb89032aaedf';">Thesis.pdf</button>
+
+- **[April 2019]** Received Microsoft Travel Grant to attend and present the paper titled **An Approach to Cross-Lingual Voice Conversion** submitted to  [International Joint Conference on Neural Networks 2019](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=78918&copyownerid=105620).
