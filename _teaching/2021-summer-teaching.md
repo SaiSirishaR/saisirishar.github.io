@@ -2,7 +2,7 @@
 title: "Usability Engineering"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2021-summer-teaching
+permalink: /teaching/UE
 venue: "Technische Universität Berlin"
 location: "Berlin, Germany"
 ---
