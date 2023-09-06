@@ -68,12 +68,6 @@ redirect_from:
 {% endcomment %}
 
 
-## Teaching
 
-  <ul>{% for post in site.teaching reversed %}
-  {% if forloop.first %}
-    {% include archive-single-cv.html %}
-    {% endif %}
-  {% endfor %}</ul>
   
 
