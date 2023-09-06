@@ -8,9 +8,7 @@ date: 2020-10-13
 location: "Berlin, Germany"
 ---
 
-
-
-### Fall 2020, Spring 2022, 2023
+Fall 2020, Spring 2022, 2023
 
 This is a seminar offered to both Masters's and Bachelor's students. In 
 this course, the students will be familiarised with the Biometrics 
