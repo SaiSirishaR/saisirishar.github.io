@@ -6,7 +6,7 @@ permalink: /publication/2021-01-01-On-incorporating-social-speaker-characteristi
 date: 2023-01-01
 venue: 'ITG Speech Communication'
 paperurl:
-citation: 'Sai Sirisha Rallabandi, Sebastian Möller &quot;On incorporating social speaker characteristics in synthetic speech
+citation: 'Sai Sirisha Rallabandi, Sebastian Möller, &quot;On incorporating social speaker characteristics in synthetic speech,
 Corpus.&quot; ITG Speech Communication, 2023.'
 ---
 
