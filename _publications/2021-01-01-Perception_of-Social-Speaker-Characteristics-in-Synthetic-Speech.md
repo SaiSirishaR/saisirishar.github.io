@@ -8,3 +8,5 @@ paperurl:
 citation: 'Sai Sirisha Rallabandi, Abhinav Bharadwaj, Babak Naderi, Sebastian Möller &quot;Perception of Social Speaker Characteristics in Synthetic Speech 
 Corpus.&quot; In the proceedings of Interspeech 2021.'
 ---
+
+<button onclick="window.location.href='(https://www.iscaspeech.org/archive/pdfs/interspeech_2021/rallabandi21_interspeech.pdf)';">Paper.pdf</button>
