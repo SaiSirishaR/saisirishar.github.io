@@ -11,4 +11,4 @@ citation: 'Sai Sirisha Rallabandi, Babak Naderi, Sebastian Möller &quot; Identi
 Corpus.&quot; In the proceedings of Speech Synthesis Workshop (SSW11) 2021.'
 ---
 
-<button onclick="window.location.href='(https://www.isca-speech.org/archive/pdfs/ssw_2021/rallabandi21_ssw.pdf)';">Paper.pdf</button>
+<button onclick="window.location.href='https://www.isca-speech.org/archive/pdfs/ssw_2021/rallabandi21_ssw.pdf';">Paper.pdf</button>
