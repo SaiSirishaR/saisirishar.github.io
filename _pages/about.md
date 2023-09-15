@@ -35,4 +35,4 @@ user experience** has been accepted at the [ITG Conference on Speech Communicati
 
 - **[April 2019]** Ph.D. Panel member in the [Young Female Researchers Workshop (YFRSW) (https://www.interspeech2019.org/students/student_events/)], Interspeech.
 
-- **[July 2018]** Participant of the [Speech Processing Courses in Crete (SPCC)(https://www.csd.uoc.gr/~spcc/SPCC2018/index.html)https://www.csd.uoc.gr/~spcc/SPCC2018/index.html)], University of Crete, Greece.
+- **[July 2018]** Participant of the 3-day workshop on "Towards Flexible and Intelligible End-to-End Speech Synthesis Systems", [Speech Processing Courses in Crete (SPCC)(https://www.csd.uoc.gr/~spcc/SPCC2018/index.html)https://www.csd.uoc.gr/~spcc/SPCC2018/index.html)], University of Crete, Greece.
