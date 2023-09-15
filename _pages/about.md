@@ -32,3 +32,5 @@ user experience** has been accepted at the [ITG Conference on Speech Communicati
 - **[April 2019]** Received Microsoft Travel Grant to attend and present the paper titled **An Approach to Cross-Lingual Voice Conversion** submitted to  [International Joint Conference on Neural Networks (IJCNN) 2019](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=78918&copyownerid=105620).
 
 - **[April 2019]** I have successfully defended my Master's thesis! <button onclick="window.location.href='https://web2py.iiit.ac.in/research_centres/publications/view_publication/mastersthesis/690';">Thesis.pdf</button>
+
+- **[April 2019]** Ph.D. Panel member in the [Young Female Researchers Workshop (YFRSW) (https://www.interspeech2019.org/students/student_events/)], Interspeech.
